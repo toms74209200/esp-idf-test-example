@@ -1,0 +1,16 @@
+{
+    "[cpp]": {
+        "editor.tabSize": 2,
+        "editor.formatOnSave": true
+    },
+    "[c]": {
+        "editor.tabSize": 2,
+        "editor.formatOnSave": true
+    },
+    "[cmake]": {
+        "editor.formatOnSave": true
+    },
+    "testMate.cpp.test.advancedExecutables": [{
+        "pattern": "{build,Build,BUILD,out,Out,OUT}/**/*{test,Test,TEST}"
+    }],
+}
